@@ -6,9 +6,9 @@ learned about some of the basic functionalities within QGIS including editing pr
 manipulating datasets/files, reworking attributes or styling features.
 
 ## Software Environment
-QGIS Version Used: 4.0.0
-Operating System: macOS
-Plugins used: N/A
+QGIS Version Used: 4.0.0  
+Operating System: macOS  
+Plugins used: N/A  
 
 ## Completed Tutorials
 In this assignment, I completed
