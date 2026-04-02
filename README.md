@@ -11,7 +11,7 @@ Operating System: macOS
 Plugins used: N/A  
 
 ## Completed Tutorials
-In this assignment, I completed
+In this assignment, I completed the following tutorials:
 - Making a Map
 - Working with Projections
 - Working with Attributes
